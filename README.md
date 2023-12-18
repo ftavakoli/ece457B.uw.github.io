@@ -1,5 +1,9 @@
+
+![University Logo](image_res/Waterloo_Engineering_Logo_horiz_rgb.jpg) 
+
 # ECE 457B - Fundamentals of Computational Intelligence
 
+![Header Image](image_res/Article-Machine-Learning-Header.png.webp) 
 Welcome to ECE 457B, offered by the University of Waterloo. This course dives into advanced topics of control systems with a focus on machine learning applications.
 
 ## Course Logistics
