@@ -1,0 +1,27 @@
+:root {
+  --color-navy: #231942;
+  --color-purple-dark: #5E548E;
+  --color-purple-medium: #9F86C0;
+  --color-pink-light: #BE95C4;
+  --color-pink-soft: #E0B1CB;
+}
+
+body {
+  background: linear-gradient(to right, var(--color-navy), var(--color-pink-soft));
+  color: white;
+}
+
+a {
+  color: var(--color-pink-light);
+}
+
+a:hover {
+  color: var(--color-purple-dark);
+}
+
+header {
+  background: var(--color-purple-medium);
+}
+header {
+  background: linear-gradient(to right, var(--color-navy), var(--color-pink-soft));
+}
